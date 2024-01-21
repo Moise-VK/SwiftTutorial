@@ -31,6 +31,7 @@
 		8D65AD0E2B5C48A500FF5D67 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		8D65AD102B5C490800FF5D67 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		8D65AD122B5C586E00FF5D67 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		8D65AD172B5D271900FF5D67 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 		8D65ACEE2B5C248D00FF5D67 = {
 			isa = PBXGroup;
 			children = (
+				8D65AD172B5D271900FF5D67 /* README.md */,
 				8D65ACF92B5C248D00FF5D67 /* Landmarks */,
 				8D65ACF82B5C248D00FF5D67 /* Products */,
 			);
